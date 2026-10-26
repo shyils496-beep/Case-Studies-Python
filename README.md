@@ -1,4 +1,4 @@
-# Case-Studies-Python
+* [Using the __cleanup__ variable attribute in GCC](http://echorand.me/site/notes/articles/c_cleanup/cleanup_attribute_c.html)# Case-Studies-Python
 
 This repository is a companion to the textbook <a href="https://mitpress.ublish.com/book/case-studies-neural-data-analysis" rel="external" target="_blank">Case Studies in Neural Data Analysis</a>, by Mark Kramer and Uri Eden. That textbook uses MATLAB to analyze examples of neuronal data. The material here is  similar, except that we use Python.
 
